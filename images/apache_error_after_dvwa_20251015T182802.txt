@@ -1,0 +1,13 @@
+[Mon May 21 01:45:26 2012] [notice] caught SIGWINCH, shutting down gracefully
+[Wed Oct 08 18:11:43 2025] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Wed Oct 08 18:18:46 2025] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Wed Oct 15 09:23:18 2025] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Wed Oct 15 09:54:02 2025] [error] [client 192.168.56.103] File does not exist: /var/www/nmaplowercheck1760536511
+[Wed Oct 15 09:54:02 2025] [error] [client 192.168.56.103] File does not exist: /var/www/sdk
+[Wed Oct 15 09:54:02 2025] [error] [client 192.168.56.103] File does not exist: /var/www/evox
+[Wed Oct 15 09:54:02 2025] [error] [client 192.168.56.103] File does not exist: /var/www/HNAP1
+[Wed Oct 15 10:40:56 2025] [error] [client 192.168.56.1] File does not exist: /var/www/favicon.ico, referer: http://192.168.56.102/dvwa/login.php
+[Wed Oct 15 10:44:28 2025] [error] [client 192.168.56.1] File does not exist: /var/www/favicon.ico, referer: http://192.168.56.102/dvwa/login.php
+[Wed Oct 15 15:18:47 2025] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Wed Oct 15 15:35:26 2025] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations
+[Wed Oct 15 15:43:54 2025] [notice] Apache/2.2.8 (Ubuntu) DAV/2 configured -- resuming normal operations

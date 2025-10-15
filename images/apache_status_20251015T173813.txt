@@ -1,0 +1,1 @@
+/home/msfadmin/diodesafio/scripts/meu_script.sh: line 8: service: command not found
