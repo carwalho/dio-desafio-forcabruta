@@ -1,0 +1,5 @@
+# ignore local evidence files if you don't want to push raw logs
+images/target_logs/*.txt
+*.key
+.env
+.DS_Store
